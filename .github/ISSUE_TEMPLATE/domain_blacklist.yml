@@ -6,7 +6,7 @@ body:
     attributes:
       label: Comments
       description: Add any comments
-      placeholder: This hosting service is usual quick to fix phishing issues
+      placeholder: This hosting service is usual quick to fix phishing issues pull
     validations:
       required: false
 
